@@ -2,7 +2,7 @@
 
 ## Historical note
 
-Originally, this is a list of problems for practicing logic programming in Prolog assembled by professor Werner Hett.
+Originally, it is a list of problems for practicing logic programming in Prolog assembled by professor Werner Hett.
 
 ## List of problems with solutions in different languages
 
